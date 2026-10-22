@@ -6,7 +6,7 @@
 </head>
 <body>
 <footer>
-  <p>&copy; 2026 Paveteran Elangovan</p>
+  <p>&copy; 2026 Lab 08</p>
 </footer>
 </body>
 </html>
